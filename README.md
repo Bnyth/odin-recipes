@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe webpage HTML project
+This project aims to create a simple recipe page in HTML.
